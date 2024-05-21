@@ -1,5 +1,8 @@
-
 # Predicting Seasonal Flu Vaccine Uptake
+
+![image](https://github.com/magdaondimu/Predicting-Seasonal-Flu-Vaccine-Uptake/assets/151352429/3385f7a2-cf94-48f0-ab65-802cc5af61fb)
+
+## Author: Magdalene Ondimu
 
 ## Overview
 This project aims to predict seasonal flu vaccine uptake based on a person's background and behavioral patterns. The analysis leverages various machine learning models to identify key factors contributing to vaccine hesitancy.
